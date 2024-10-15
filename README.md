@@ -1,3 +1,3 @@
 # control_homework2
-생년월일 2001/01/06  
-이름 songjuyeob
+2020732004 송주엽
+SongJuYeob
